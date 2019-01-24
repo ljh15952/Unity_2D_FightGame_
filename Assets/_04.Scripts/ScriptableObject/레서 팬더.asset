@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dde49484458cc34a98872e4c28622cc, type: 3}
+  m_Name: "\uB808\uC11C \uD32C\uB354"
+  m_EditorClassIdentifier: 
+  Technique:
+  - "\u2193\u2198\u2192Q"
+  - "\u2192\u2193\u2198A"
+  - "\u2192\u2192Q"
+  TechniqueName:
+  - "\uB300\uB098\uBB34 \uBC1C\uC0AC!"
+  - "\uC7A1\uC544\uC62C\uB9B0\uB2E4!"
+  - "\uD30C\uD30D!"
+  Skill: "\u2193\u2198\u2192\u2193\u2198\u2192W"
+  HiddenSkill: "\u2190\u2199\u2193\u2198\u2192W"

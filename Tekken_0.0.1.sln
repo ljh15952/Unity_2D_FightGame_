@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekken_0.0.1", "Assembly-CSharp.csproj", "{3EB2B10A-FF55-AF70-71C4-8C7158392667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekken_0.0.1", "Assembly-CSharp-firstpass.csproj", "{41096755-8F01-C798-1B61-0D4F7900DA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekken_0.0.1", "Assembly-CSharp-Editor.csproj", "{0BC50A3B-6A7A-0EAD-4733-C459B4B0390C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB2B10A-FF55-AF70-71C4-8C7158392667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB2B10A-FF55-AF70-71C4-8C7158392667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB2B10A-FF55-AF70-71C4-8C7158392667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB2B10A-FF55-AF70-71C4-8C7158392667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41096755-8F01-C798-1B61-0D4F7900DA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41096755-8F01-C798-1B61-0D4F7900DA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41096755-8F01-C798-1B61-0D4F7900DA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41096755-8F01-C798-1B61-0D4F7900DA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC50A3B-6A7A-0EAD-4733-C459B4B0390C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC50A3B-6A7A-0EAD-4733-C459B4B0390C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC50A3B-6A7A-0EAD-4733-C459B4B0390C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC50A3B-6A7A-0EAD-4733-C459B4B0390C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
